@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17be5b6f-e829-4f4a-9341-89cec558ce59" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\adapter.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\admin.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\app_settings.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\apps.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\auth_backends.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\context_processors.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\decorators.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\forms.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\management\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\management\commands\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\management\commands\account_emailconfirmationmigration.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\management\commands\account_unsetmultipleprimaryemails.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\managers.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\migrations\0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\migrations\0002_email_max_length.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\migrations\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\signals.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\templatetags\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\templatetags\account.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\templatetags\account_tags.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\utils.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\account\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\app_settings.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\cs\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\de\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\el\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\en\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\es\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\fa\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\fr\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\he\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\hr\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\hu\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\it\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\ja\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\nl\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\pl\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\pt_BR\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\pt_PT\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\ru\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\sk\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\sv\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\th\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\tr\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\uk\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\zh_CN\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\locale\zh_TW\LC_MESSAGES\django.po" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\adapter.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\admin.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\app_settings.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\apps.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\context_processors.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\fields.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\forms.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\helpers.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\migrations\0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\migrations\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\amazon\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\amazon\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\amazon\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\amazon\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\amazon\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\amazon\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\angellist\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\angellist\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\angellist\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\angellist\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\angellist\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\angellist\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\baidu\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\baidu\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\baidu\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\baidu\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\baidu\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\baidu\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\base.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\bitbucket\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\bitbucket\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\bitbucket\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\bitbucket\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\bitbucket\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\bitbucket\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\bitly\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\bitly\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\bitly\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\bitly\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\bitly\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\bitly\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\coinbase\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\coinbase\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\coinbase\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\coinbase\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\coinbase\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\coinbase\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\douban\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\douban\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\douban\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\douban\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\douban\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\douban\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\dropbox\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\dropbox\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\dropbox\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\dropbox\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\dropbox\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\dropbox\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\dropbox_oauth2\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\dropbox_oauth2\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\dropbox_oauth2\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\dropbox_oauth2\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\dropbox_oauth2\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\dropbox_oauth2\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\evernote\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\evernote\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\evernote\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\evernote\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\evernote\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\evernote\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\facebook\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\facebook\data\FacebookLocales.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\facebook\forms.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\facebook\locale.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\facebook\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\facebook\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\facebook\south_migrations\0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\facebook\south_migrations\0002_auto__add_facebookaccesstoken__add_unique_facebookaccesstoken_app_acco.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\facebook\south_migrations\0003_tosocialaccount.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\facebook\south_migrations\0004_auto__del_facebookapp__del_facebookaccesstoken__del_unique_facebookacc.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\facebook\south_migrations\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\facebook\static\facebook\js\fbconnect.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\facebook\templates\facebook\fbconnect.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\facebook\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\facebook\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\facebook\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\feedly\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\feedly\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\feedly\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\feedly\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\feedly\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\feedly\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\flickr\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\flickr\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\flickr\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\flickr\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\flickr\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\flickr\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\foursquare\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\foursquare\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\foursquare\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\foursquare\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\foursquare\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\foursquare\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\fxa\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\fxa\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\fxa\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\fxa\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\fxa\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\fxa\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\github\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\github\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\github\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\github\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\github\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\github\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\google\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\google\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\google\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\google\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\google\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\google\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\hubic\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\hubic\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\hubic\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\hubic\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\hubic\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\hubic\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\instagram\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\instagram\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\instagram\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\instagram\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\instagram\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\instagram\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\linkedin\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\linkedin\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\linkedin\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\linkedin\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\linkedin\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\linkedin\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\linkedin_oauth2\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\linkedin_oauth2\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\linkedin_oauth2\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\linkedin_oauth2\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\linkedin_oauth2\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\linkedin_oauth2\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\mailru\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\mailru\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\mailru\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\mailru\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\mailru\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\mailru\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\oauth2\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\oauth2\client.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\oauth2\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\oauth2\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\oauth2\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\oauth2\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\oauth\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\oauth\client.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\oauth\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\oauth\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\oauth\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\oauth\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\odnoklassniki\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\odnoklassniki\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\odnoklassniki\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\odnoklassniki\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\odnoklassniki\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\odnoklassniki\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\openid\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\openid\admin.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\openid\forms.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\openid\migrations\0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\openid\migrations\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\openid\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\openid\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\openid\south_migrations\0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\openid\south_migrations\0002_tosocialaccount.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\openid\south_migrations\0003_auto__del_openidaccount.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\openid\south_migrations\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\openid\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\openid\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\openid\utils.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\openid\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\orcid\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\orcid\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\orcid\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\orcid\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\orcid\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\orcid\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\paypal\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\paypal\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\paypal\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\paypal\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\paypal\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\paypal\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\persona\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\persona\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\persona\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\persona\templates\persona\auth.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\persona\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\persona\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\persona\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\soundcloud\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\soundcloud\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\soundcloud\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\soundcloud\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\soundcloud\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\soundcloud\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\spotify\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\spotify\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\spotify\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\spotify\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\spotify\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\spotify\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\stackexchange\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\stackexchange\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\stackexchange\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\stackexchange\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\stackexchange\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\stackexchange\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\tumblr\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\tumblr\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\tumblr\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\tumblr\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\tumblr\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\tumblr\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\twitch\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\twitch\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\twitch\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\twitch\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\twitch\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\twitch\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\twitter\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\twitter\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\twitter\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\twitter\south_migrations\0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\twitter\south_migrations\0002_snowflake.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\twitter\south_migrations\0003_tosocialaccount.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\twitter\south_migrations\0004_auto__del_twitteraccount__del_twitterapp.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\twitter\south_migrations\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\twitter\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\twitter\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\twitter\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\vimeo\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\vimeo\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\vimeo\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\vimeo\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\vimeo\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\vimeo\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\vk\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\vk\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\vk\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\vk\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\vk\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\vk\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\weibo\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\weibo\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\weibo\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\weibo\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\weibo\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\weibo\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\windowslive\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\windowslive\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\windowslive\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\windowslive\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\windowslive\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\windowslive\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\xing\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\xing\models.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\xing\provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\xing\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\xing\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\providers\xing\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\signals.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\south_migrations\0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\south_migrations\0002_genericmodels.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\south_migrations\0003_auto__add_unique_socialaccount_uid_provider.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\south_migrations\0004_add_sites.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\south_migrations\0005_set_sites.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\south_migrations\0006_auto__del_field_socialapp_site.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\south_migrations\0007_auto__add_field_socialapp_client_id.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\south_migrations\0008_client_id.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\south_migrations\0009_auto__add_field_socialtoken_expires_at.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\south_migrations\0010_auto__chg_field_socialtoken_token.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\south_migrations\0011_auto__chg_field_socialtoken_token.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\south_migrations\0012_auto__chg_field_socialtoken_token_secret.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\south_migrations\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\templatetags\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\templatetags\socialaccount.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\templatetags\socialaccount_tags.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\socialaccount\views.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\account_inactive.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\base.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\email.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\email\email_confirmation_message.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\email\email_confirmation_signup_message.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\email\email_confirmation_signup_subject.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\email\email_confirmation_subject.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\email\password_reset_key_message.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\email\password_reset_key_subject.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\email_confirm.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\email_confirmed.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\login.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\logout.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\messages\cannot_delete_primary_email.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\messages\email_confirmation_sent.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\messages\email_confirmed.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\messages\email_deleted.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\messages\logged_in.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\messages\logged_out.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\messages\password_changed.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\messages\password_set.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\messages\primary_email_set.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\messages\unverified_primary_email.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\password_change.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\password_reset.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\password_reset_done.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\password_reset_from_key.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\password_reset_from_key_done.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\password_set.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\signup.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\signup_closed.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\snippets\already_logged_in.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\verification_sent.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\account\verified_email_required.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\base.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\openid\base.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\openid\login.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\socialaccount\authentication_error.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\socialaccount\base.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\socialaccount\connections.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\socialaccount\login_cancelled.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\socialaccount\messages\account_connected.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\socialaccount\messages\account_connected_other.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\socialaccount\messages\account_disconnected.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\socialaccount\signup.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\socialaccount\snippets\login_extra.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\templates\socialaccount\snippets\provider_list.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\tests.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\urls.py" afterPath="" />
+      <change type="DELETED" beforePath="D:\dev\data-bases-rgr\library\allauth\utils.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/frontend/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/library/frontend/migrations/0001_initial.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/frontend/admin.py" afterPath="$PROJECT_DIR$/library/frontend/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/frontend/templates/index.html" afterPath="$PROJECT_DIR$/library/frontend/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/manage.py" afterPath="$PROJECT_DIR$/library/manage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/frontend/models.py" afterPath="$PROJECT_DIR$/library/frontend/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/library/settings.py" afterPath="$PROJECT_DIR$/library/library/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/library/urls.py" afterPath="$PROJECT_DIR$/library/library/urls.py" />
+      <change type="MOVED" beforePath="D:\dev\data-bases-rgr\library\allauth\__init__.py" afterPath="$PROJECT_DIR$/library/frontend/templates/layout.html" />
+    </list>
+    <ignored path="data-bases-rgr.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="data-bases-rgr" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/frontend/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/library/frontend/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2368703">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/library/library/settings.py" />
+        <option value="$PROJECT_DIR$/library/frontend/templates/layout.html" />
+        <option value="$PROJECT_DIR$/library/frontend/templates/index.html" />
+        <option value="$PROJECT_DIR$/library/library/urls.py" />
+        <option value="$PROJECT_DIR$/library/frontend/models.py" />
+        <option value="$PROJECT_DIR$/library/frontend/admin.py" />
+      </list>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data-bases-rgr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data-bases-rgr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data-bases-rgr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data-bases-rgr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data-bases-rgr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data-bases-rgr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data-bases-rgr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data-bases-rgr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data-bases-rgr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data-bases-rgr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data-bases-rgr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="data-bases-rgr" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="data-bases-rgr" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="data-bases-rgr" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="data-bases-rgr" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="data-bases-rgr" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="data-bases-rgr" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17be5b6f-e829-4f4a-9341-89cec558ce59" name="Default" comment="" />
+      <created>1436214895614</created>
+      <option name="number" value="Default" />
+      <updated>1436214895614</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/library/frontend/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/lng/python/Lib/site-packages/django/db/models/fields/related.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="1794" column="8" selection-start-line="1794" selection-start-column="8" selection-end-line="1794" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/frontend/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09371555">
+          <caret line="5" column="86" selection-start-line="5" selection-start-column="86" selection-end-line="5" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/frontend/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.056229327">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/frontend/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05466238">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/library/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/library/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.018220793">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/library/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2572347">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/frontend/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/frontend/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2368703">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
